@@ -124,6 +124,8 @@ contract MiToken is ERC721URIStorage {
     - ![image](https://github.com/richpob/MiPrimerERC721-ERC1155/assets/133718913/86debbae-5fbb-4fc9-a32f-5be4735928fa)
  - Import NTF en Metamask
     - ![image](https://github.com/richpob/MiPrimerERC721-ERC1155/assets/133718913/56f2b3e7-24bb-4df6-9be1-6f1f27381c45)
+ - Verificación y Uso de Contrato en Etherscan:
+ - ![image](https://github.com/richpob/MiPrimerERC721-ERC1155/assets/133718913/21f41565-fff5-429f-a3a6-67f0d780a7af)
 
 
 ## ERC-1155: Token Multiuso para un Juego de Cartas Coleccionables
